@@ -38,8 +38,8 @@ files that you create!
     practicing both the use of the language in practice and the search skills
     necessary to become functional programmers.
 
-Warm-Up Task 01
-===============
+[Sub-Type] Task 01
+===================
 
 [description of task]
 
