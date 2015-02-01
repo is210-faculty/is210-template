@@ -38,18 +38,21 @@ files that you create!
     practicing both the use of the language in practice and the search skills
     necessary to become functional programmers.
 
-[Sub-Type] Task 01
-===================
+[Sub-Type] Tasks
+================
+
+Task ##
+-------
 
 [description of task]
 
 Specifications
---------------
+^^^^^^^^^^^^^^
 
 [step-by-step directions of the task]
 
 Examples
---------
+^^^^^^^^
 
 [examples of the work in-progress]
 
